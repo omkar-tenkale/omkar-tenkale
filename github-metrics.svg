@@ -2491,7 +2491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>os72/protoc-jar</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Protocol Buffers protobuf compiler - multi-platform executable protoc JAR and API</div>
@@ -3633,7 +3633,7 @@ https://datatracker.ietf.org/doc/html/rfc7845
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2022, 11:48:56 (timezone Asia/Kolkata) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 12:45:42 (timezone Asia/Kolkata) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
