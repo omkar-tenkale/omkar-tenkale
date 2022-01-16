@@ -345,14 +345,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.1083941295894" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="419.1083941295894" y="0" width="18.528872145994338" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.6372662755837" y="0" width="8.41448358300792" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="446.0517498585916" y="0" width="6.502574193331292" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.5543240519229" y="0" width="2.6848363748820265" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="455.2391604268049" y="0" width="2.4087976041494747" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="457.64795803095444" y="0" width="1.515817708975947" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.1637757399304" y="0" width="0.8362242600696387" height="8" fill="#34EB6B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.10892649804305" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="419.10892649804305" y="0" width="18.528630918319298" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.6375574163623" y="0" width="8.414374034715106" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.0519314510774" y="0" width="6.502489536216598" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.554420987294" y="0" width="2.6848014209554476" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="455.2392224082494" y="0" width="2.4087662439759514" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="457.64798865222537" y="0" width="1.5157979745215862" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.16378662674697" y="0" width="0.8362133732529733" height="8" fill="#34EB6B"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3613,7 +3613,7 @@ https://datatracker.ietf.org/doc/html/rfc7845
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2022, 14:45:12 (timezone Asia/Kolkata) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 16 Jan 2022, 15:46:38 (timezone Asia/Kolkata) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
