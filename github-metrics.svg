@@ -2508,7 +2508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Perfomer/blitz</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Android Library: Set self-updating string with relative time in TextView (e.g. 5 minutes ago)</div>
@@ -2561,7 +2561,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hasankucuk/SocialTextView</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple custom Android TextView that highlights content such as Mention, Hashtag, Phone, Email and Url.</div>
@@ -2614,7 +2614,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yuzumone/ExpandableTextView</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An android library that is TextView performs multiline ellipsize.</div>
@@ -2667,7 +2667,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MZCretin/ExpandableTextView</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">实现类似微博内容，@用户，链接高亮，@用户和链接可点击跳转，可展开和收回的TextView</div>
@@ -3266,7 +3266,7 @@ Is there any other approach I'm not able to grasp?
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.9411362080766565 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.153319644079391 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3650,7 +3650,7 @@ Is there any other approach I'm not able to grasp?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2022, 23:47:30 (timezone Asia/Kolkata) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 28 Feb 2022, 00:42:02 (timezone Asia/Kolkata) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
