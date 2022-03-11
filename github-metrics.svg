@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spotify/ruler</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gradle plugin which helps you analyze the size of your Android apps.</div>
@@ -3639,7 +3639,7 @@ Is this really possible to do?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2022, 03:45:51 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 12 Mar 2022, 04:45:26 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
