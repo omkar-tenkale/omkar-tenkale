@@ -3218,7 +3218,7 @@ Is this really possible to do?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 894k out of 86m users</span>
+                                    <span class="gh">ranked 894k out of 87m users</span>
                                 </div>
                                 <div class="text">Published 33 public repositories</div>
                             </div>
@@ -3564,7 +3564,7 @@ Is this really possible to do?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.90m out of 86m users</span>
+                                    <span class="gh">ranked 1.90m out of 87m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -3649,7 +3649,7 @@ Is this really possible to do?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2022, 11:51:29 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 13 Mar 2022, 12:44:26 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
