@@ -21,7 +21,7 @@ jobs:
           base: header, activity, community
           config_timezone: Asia/Kolkata
           plugin_achievements: yes
-          plugin_calendar: yes
+          plugin_calendar: no
           plugin_calendar_limit: 3
           plugin_discussions: yes
           plugin_habits: yes
