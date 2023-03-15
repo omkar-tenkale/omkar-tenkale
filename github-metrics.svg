@@ -41,8 +41,8 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -240,7 +240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LIONisaQT/juicy-shmup</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A juicy shoot 'em up.</div>
@@ -287,7 +287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>b3nk4n/bomb-game</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A casual-arcade game with a fully destructible world based on LibGdx and Box2D for Android</div>
@@ -340,7 +340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jamalamch/Tank-Game-2D</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Java LibGDX 2D - Tank Game</div>
@@ -387,7 +387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adityagupta1089/FlatCraft</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">2D Minecraft clone for Android using AndEngine and extensions: multiplayer on WiFi, physics simulation, texture packing.</div>
@@ -975,7 +975,7 @@ Inner Start
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.25838466803556 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.47056810403836 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1181,7 +1181,7 @@ Inner Start
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 433k out of 110m users</span>
+                                    <span class="gh">ranked 434k out of 110m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
