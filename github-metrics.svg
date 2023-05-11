@@ -244,7 +244,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Anamorphosee/stacktrace-decoroutinator</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small lib for recovering stack trace in exceptions thrown in Kotlin coroutines</div>
@@ -297,7 +297,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MZCretin/AutoUpdateProject</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">App 内部更新 提供12种更新的样式 支持Android全系统版本 支持自定义UI 断点续传</div>
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JsonChao/Secret-Top-Programmers</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The way to cultivate top programmers</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JsonChao/Awesome-Android-Notebook</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -521,7 +521,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            697 reputation points
+                            707 reputation points
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -982,7 +982,7 @@ Inner Start
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.40965092402462 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.62183436002735 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1188,7 +1188,7 @@ Inner Start
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 398k out of 115m users</span>
+                                    <span class="gh">ranked 399k out of 115m users</span>
                                 </div>
                                 <div class="text">Followed by 28 users</div>
                             </div>
@@ -1226,7 +1226,7 @@ Inner Start
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 398k out of 399m repositories</span>
+                                    <span class="gh">ranked 398k out of 400m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 72 stars</div>
                             </div>
@@ -1272,7 +1272,7 @@ Inner Start
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.49m out of 399m repositories</span>
+                                    <span class="gh">ranked 1.49m out of 400m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 6 times</div>
                             </div>
